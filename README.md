@@ -1,2 +1,3 @@
 # B-VIRUS
-:) 
+1. How to use B-VIRUS [`Watch it`](https://youtu.be/bHbwwfgFRCY) 
+2. Fork it...
